@@ -1,6 +1,10 @@
 # Power Brawl v57
 StarrDev`s v53 server which was ported to v57
 
+## What's works: ##
+Catalogue(maybe)
+idk if u need u can fix
+
 ## How to play: ##
 
 1: Download the server and extract it:
