@@ -16,3 +16,4 @@ StarrDev`s v53 server which was ported to v57
 
 3: Enjoy playing!
 ## Screenshots ##
+<img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/df64b3a3-29fd-42df-94a2-e1726c0b03f1" />
