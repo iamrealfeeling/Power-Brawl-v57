@@ -7,7 +7,7 @@ StarrDev`s v53 server which was ported to v57
 
 2: Open terminal on your computer and go to server directory.
 
-3: Type python3 Main.py and it's done, follow client instructions.
+3: Type python3 Core.py and it's done, follow client instructions.
 
 ### Android Client ###
 1: [Download the APK here](https://mega.nz/file/CEM3TBDS#t_I0JZEZzSFp8sb0NQN1kT55XCrDJpug8OPE59T4Kyw)
